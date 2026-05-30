@@ -71,7 +71,7 @@ My personal framework:
 ### 📡 Find me
 
 [![X / Twitter](https://img.shields.io/badge/@boccassini__ai-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/boccassini_ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-boccassini/)
 
 ---
 
