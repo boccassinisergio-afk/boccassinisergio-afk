@@ -40,9 +40,9 @@ My personal framework:
 
 | Project | Description | Stack |
 |---|---|---|
-| [📡 PULSAR](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/Pulsar/pulsar.py) | Extracts structured data from free text via regex - exports to JSON/CSV using only stdlib | Python · Regex · CSV |
-| [📞 Call Outcome Tracker](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/call-outcome-tracker/call_outcome_tracker.py) | CLI tool to log call outcomes with persistent JSON storage | Python · JSON |
-| [🧬 Synapse](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/Synapse/Synapse_v2_1.py) | Personal knowledge base with File I/O and structured persistence | Python · JSON |
+| [📡 PULSAR](https://github.com/boccassinisergio-afk/Pulsar/blob/main/Pulsar.py) | Extracts structured data from free text via regex - exports to JSON/CSV using only stdlib | Python · Regex · CSV |
+| [📞 Call Outcome Tracker](https://github.com/boccassinisergio-afk/call-outcome-tracker/blob/main/call_outcome_tracker.py) | CLI tool to log call outcomes with persistent JSON storage | Python · JSON |
+| [🧬 Synapse](https://github.com/boccassinisergio-afk/Synapse/blob/main/Synapse_v2_1.py) | Personal knowledge base with File I/O and structured persistence | Python · JSON |
 
 ---
 
