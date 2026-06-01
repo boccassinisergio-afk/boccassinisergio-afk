@@ -49,8 +49,10 @@ My personal framework:
 ### 📊 GitHub Stats
 
 <div align="center">
-
+     
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boccassinisergio-afk&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=boccassinisergio-afk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boccassinisergio-afk&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 </div>
 
