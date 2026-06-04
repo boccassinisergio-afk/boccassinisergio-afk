@@ -13,7 +13,7 @@
 
 ### 🧠 Who I am
 
-I'm **Sergio**, based in Italy, in the middle of a deliberate career transition into **Artificial Intelligence** and software development.
+I'm **Sergio**, based in Italy — in the middle of a deliberate career transition into **Artificial Intelligence** and software development.
 
 I work full time and study on the side. Currently completing **Harvard's CS50P**, building real tools along the way, and documenting everything publicly.
 
@@ -33,6 +33,7 @@ My personal framework:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -40,9 +41,9 @@ My personal framework:
 
 | Project | Description | Stack |
 |---|---|---|
-| [📡 PULSAR](https://github.com/boccassinisergio-afk/Pulsar/blob/main/Pulsar.py) | Extracts structured data from free text via regex - exports to JSON/CSV using only stdlib | Python · Regex · CSV |
-| [📞 Call Outcome Tracker](https://github.com/boccassinisergio-afk/call-outcome-tracker/blob/main/call_outcome_tracker.py) | CLI tool to log call outcomes with persistent JSON storage | Python · JSON |
-| [🧬 Synapse](https://github.com/boccassinisergio-afk/Synapse/blob/main/Synapse_v2_1.py) | Personal knowledge base with File I/O and structured persistence | Python · JSON |
+| [📡 PULSAR](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/Pulsar/pulsar.py) | Data-driven entity extraction from free text - skill categories loaded from external JSON config, patterns compiled at runtime, exports to JSON/CSV | Python · Regex · JSON · CSV |
+| [📞 Call Outcome Tracker](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/call-outcome-tracker/call_outcome_tracker.py) | CLI tool to log call outcomes with persistent JSON storage | Python · JSON |
+| [🧬 Synapse](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/Synapse/Synapse_v2_1.py) | Personal knowledge base with File I/O and structured persistence | Python · JSON |
 
 ---
 
@@ -50,7 +51,11 @@ My personal framework:
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boccassinisergio-afk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=boccassinisergio-afk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boccassinisergio-afk&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
