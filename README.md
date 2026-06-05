@@ -55,8 +55,6 @@ My personal framework:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=boccassinisergio-afk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boccassinisergio-afk&layout=compact&theme=github_dark&hide_border=true)
-
 </div>
 
 ---
