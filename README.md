@@ -13,7 +13,7 @@
 
 ### 🧠 Who I am
 
-I'm **Sergio**, based in Italy — in the middle of a deliberate career transition into **Artificial Intelligence** and software development.
+I'm **Sergio**, based in Italy, in the middle of a deliberate career transition into **Artificial Intelligence** and software development.
 
 I work full time and study on the side. Currently completing **Harvard's CS50P**, building real tools along the way, and documenting everything publicly.
 
