@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sergio+%F0%9F%91%8B;Career+transition+%E2%86%92+AI+%26+Software+Dev;Building+real+tools+while+learning;Sharing+the+journey%2C+not+just+the+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sergio+%F0%9F%91%8B;Career+transition+%E2%86%92+AI+%26+Software+Dev;Building+real+tools%2C+not+just+exercises;Sharing+the+journey%2C+not+just+the+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 I'm **Sergio**, based in Italy — in the middle of a deliberate career transition into **Artificial Intelligence** and software development.
 
-I work full time and study on the side. Currently completing **Harvard's CS50P**, building real tools along the way, and documenting everything publicly.
+I work full time and study on the side. Recently completed **Harvard's CS50P** - certified. Building real tools along the way and documenting everything publicly.
 
 My personal framework:
 - 🧬 **Synapse** - concepts learned and truly internalized
@@ -41,9 +41,9 @@ My personal framework:
 
 | Project | Description | Stack |
 |---|---|---|
-| [📡 PULSAR](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/Pulsar/pulsar.py) | Data-driven entity extraction from free text - skill categories loaded from external JSON config, patterns compiled at runtime, exports to JSON/CSV | Python · Regex · JSON · CSV |
-| [📞 Call Outcome Tracker](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/call-outcome-tracker/call_outcome_tracker.py) | CLI tool to log call outcomes with persistent JSON storage | Python · JSON |
-| [🧬 Synapse](https://github.com/boccassinisergio-afk/cs50p-python/blob/main/Synapse/Synapse_v2_1.py) | Personal knowledge base with File I/O and structured persistence | Python · JSON |
+| [📡 PULSAR](https://github.com/boccassinisergio-afk/Pulsar) | Data-driven entity extraction from free text - skill categories loaded from external JSON config, patterns compiled at runtime, exports to JSON/CSV | Python · Regex · JSON · CSV |
+| [📞 Call Outcome Tracker](https://github.com/boccassinisergio-afk/call-outcome-tracker) | CLI tool to log call outcomes with persistent JSON storage | Python · JSON |
+| [🧬 Synapse](https://github.com/boccassinisergio-afk/Synapse) | Personal knowledge base with File I/O and structured persistence | Python · JSON |
 
 ---
 
@@ -60,7 +60,7 @@ My personal framework:
 ### 🗺️ Roadmap
 
 ```text
-[✅] CS50P - Introduction to Programming with Python     (Week 8 in progress)
+[✅] CS50P - Introduction to Programming with Python - Completed
 [ ] DeepLearning.AI - Machine Learning Specialization
 [ ] Google AI Professional Certificate
 [ ] AWS ML Engineer
