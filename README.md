@@ -29,6 +29,9 @@ My personal framework:
 ![Regex](https://img.shields.io/badge/Regex-FF6B6B?style=for-the-badge&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -44,6 +47,7 @@ My personal framework:
 | [📡 PULSAR](https://github.com/boccassinisergio-afk/Pulsar) | Data-driven entity extraction from free text - skill categories loaded from external JSON config, patterns compiled at runtime, exports to JSON/CSV | Python · Regex · JSON · CSV |
 | [📞 Call Outcome Tracker](https://github.com/boccassinisergio-afk/call-outcome-tracker) | CLI tool to log call outcomes with persistent JSON storage | Python · JSON |
 | [🧬 Synapse](https://github.com/boccassinisergio-afk/Synapse) | Personal knowledge base with File I/O and structured persistence | Python · JSON |
+| [📊 AI Impact on Students](https://github.com/boccassinisergio-afk/ai-student-impact-analysis) | Exploratory data analysis on AI tool usage and academic outcomes - 50K student records, 4 key questions answered with Pandas and Seaborn | Python - Pandas - Seaborn - Jupyter |
 
 ---
 
@@ -61,6 +65,7 @@ My personal framework:
 
 ```text
 [✅] CS50P - Introduction to Programming with Python - Completed
+[✅] First independent EDA project - Pandas, Seaborn, Jupyter
 [ ] DeepLearning.AI - Machine Learning Specialization
 [ ] Google AI Professional Certificate
 [ ] AWS ML Engineer
